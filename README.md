@@ -1,4 +1,4 @@
-# Hey, I'm Johnny.
+# <img width="48px" height="48px" src="./memoji-mask.png"> Hey, I'm Johnny.
 
 I design and build websites for awesome clients. I live in sunny South Carolina with my wife and kids.
 
