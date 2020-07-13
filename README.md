@@ -1,4 +1,4 @@
-# <img width="48px" height="48px" src="https://github.com/johnnyhawley/johnnyhawley/blob/master/memoji-mask.png?raw=true"> Hi, I'm Johnny.
+# Hi, I'm Johnny.
 
 I design and build websites for awesome clients. I live in sunny South Carolina with my wife and kids.
 
